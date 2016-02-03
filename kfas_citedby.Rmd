@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Use of KFAS in scientific papers and books
 
-KFAS has been used in many scientific papers and books. Here is a collection of papers which mention KFAS. As the KFAS paper was not available for a long time, citation styles vary and the list has been collected manually from various sources. [Let me know](jouni.helske@jyu.fi) if you'd like your paper to be added on this page.
+KFAS has been used in many scientific papers and books. Here is a collection of papers which mention KFAS. As the KFAS paper was not available for a long time, citation styles vary and the list has been collected manually from various sources. [Let me know](mailto:jouni.helske@jyu.fi) if you'd like your paper to be added on this page.
 
 
 # References
