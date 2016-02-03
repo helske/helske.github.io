@@ -1,5 +1,5 @@
 ---
-title: "Usage of KFAS"
+title: "Who uses KFAS"
 author: "Jouni Helske"
 date: "February 3, 2016"
 output: html_document
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Use of KFAS in scientific papers and books
 
-KFAS has been used in many scientific papers and books, but as there haven't been a corresponding paper available, the citation style has varied and most of the citations cannot be found systematically from anywhere. So here is a collection of known papers which mention KFAS, collected manually from various sources.
+KFAS has been used in many scientific papers and books. Here is a collection of papers which mention KFAS. As the KFAS paper was not available for a long time, citation styles vary and the list has been collected manually from various sources. [Let me know](jouni.helske@jyu.fi) if you'd like your paper to be added on this page.
 
 
 # References
