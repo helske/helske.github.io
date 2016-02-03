@@ -1,0 +1,23 @@
+---
+title: "Usage of KFAS"
+author: "Jouni Helske"
+date: "February 3, 2016"
+output: html_document
+nocite: |
+  @MARSS, @Tusell2011, @Petris2010, @Ruiz-Cardenas2012, @Christensen2012, 
+  @Toner2014, @McLeod2012, Pelagatti2015, @Srivastava2013, @Andresen2014, @Helske2013,
+  @Menendez2015, @Pechlivanoglou2015, @Andresen2013, @Hosking2013, @Marcos2015, @Guo
+  
+bibliography: cites_kfas.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Use of KFAS in scientific papers and books
+
+KFAS has been used in many scientific papers and books, but as there haven't been a corresponding paper available, the citation style has varied and most of the citations cannot be found systematically from anywhere. So here is a collection of known papers which mention KFAS, collected manually from various sources.
+
+
+# References
